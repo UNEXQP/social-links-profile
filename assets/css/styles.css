@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.inner{
+    background-color: #222022;
+    margin: 100px;
+    padding: 100px;
+    border-radius: 10%;
+    width: 400px;
+    justify-self: center;
+}
+
+.avatar {
+    width: 100px;
+      border-radius: 50%; 
+      border: 2px solid #ccc; 
+      margin: 10px;
+  }
+
+
+  .credentials p{
+    
+        background-color: #00000066;
+        border-radius: 10px;
+        margin: 20px;
+        padding: 10px;
+        
+}  
+
+
